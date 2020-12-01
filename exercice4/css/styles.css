@@ -1,0 +1,29 @@
+
+#navbar{
+    background-color: #070707;
+}
+
+
+
+.container1{
+    margin-bottom:40px ;
+}
+
+
+
+.img {
+    border-radius: 50%;
+    width: 50%; 
+    height: auto;
+  }
+ #first-row{
+
+        background-color: #dedede;
+        padding-top: 50px;
+        padding-bottom: 30px;
+  }
+
+  #button{
+      display: flex;
+      justify-content: center;
+  }

@@ -1,0 +1,17 @@
+.row > div > div{
+    height: 50px ;
+    margin-bottom: 10px;
+    }
+  
+  .yello{
+    background-color: yellow;
+    }
+  .blue{
+    background-color: blue;
+
+  }
+  .red{
+    background-color: red;
+
+  }
+ 
